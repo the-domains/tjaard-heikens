@@ -1,20 +1,4 @@
-name: Tjaard Heikens
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.658
-title: Tjaard Heikens fotografie
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,21 @@ color:
   lightness: 0.8255309695377946
   saturation: 0.6595461794640869
   rhythmicContrast: 0.11237234622240067
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Tjaard Heikens
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Tjaard Heikens fotografie
+description: Het bijzondere van het gewone
 purpose: []
