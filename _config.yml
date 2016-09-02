@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Landscape
+    id: 35f8b4df-06bd-47e5-bb65-1c75fcfc0afe
+    type: content
 favicon: null
 title: Tjaard Heikens fotografie
 description: Het bijzondere van het gewone
